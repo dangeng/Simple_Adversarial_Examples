@@ -1,5 +1,7 @@
 # Simple Adversarial Examples
 
+![alt text](./images/adversarial_example.jpg "Adversarial Examples!")
+
 This repo contains an ipython notebook (along with corresponding helper python classes) that implements adversarial example generation for a neural network trained on MNIST, and also implements some (very) simple security measures against adversarial attacks. The majority of the base neural network impelmentation was shamelessly lifted from [neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com/). To run this notebook you will have to have `jupyter notebook` or `ipython notebook` installed. In addition, the code will need `numpy` and `matplotlib` as dependencies. 
 
 Once everything is installed go to the root directory of this repo in the terminal and run either 
