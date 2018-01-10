@@ -17,3 +17,5 @@ A window should open up automatically in your browser. If not the output to the 
 `http://localhost:8888/?token=e848ccafeeea4a0d9d78659f943eedd4e94414add29f2f82`
 
 Finally, in the tree view of the ipython notebook click on `adversarial_example.ipynb` to start the notebook. 
+
+For more info about how to use Jupyter Notebooks check out the [docs](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
